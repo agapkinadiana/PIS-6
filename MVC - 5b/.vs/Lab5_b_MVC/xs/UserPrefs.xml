@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{68070900-3D9F-43F3-93D8-009E1F0765CA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab5_b_MVC/Web.config">
+    <Files>
+      <File FileName="Lab5_b_MVC/Global.asax" Line="1" Column="1" />
+      <File FileName="Lab5_b_MVC/Global.asax.cs" Line="1" Column="1" />
+      <File FileName="Lab5_b_MVC/Controllers/AResearchController.cs" Line="1" Column="1" />
+      <File FileName="Lab5_b_MVC/Controllers/CHResearchController.cs" Line="1" Column="1" />
+      <File FileName="Lab5_b_MVC/Controllers/MResearchController.cs" Line="1" Column="1" />
+      <File FileName="Lab5_b_MVC/App_Start/RouteConfig.cs" Line="1" Column="1" />
+      <File FileName="Lab5_b_MVC/Views/web.config" Line="1" Column="1" />
+      <File FileName="Lab5_b_MVC/Web.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab5_b_MVC" expanded="True">
+            <Node name="Lab5_b_MVC" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="Global.asax" expanded="True" />
+              <Node name="Web.config" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lab5__b__MVC PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
