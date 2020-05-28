@@ -1,0 +1,49 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <div class="formsUpdate">
+        <h3>Change data:</h3>
+        <input type="hidden" name="id" value="@Model.Id" />
+        <div>
+            <input type="text" name="lastname" placeholder="LastName" value="@Model.LastName" />
+        </div>
+        <div>
+            <input type="text" name="phone" placeholder="Phone" value="@Model.Phone" />
+        </div>
+        <br />
+        <div>
+            <button id="buttonUpdate" onclick="updatePerson()">Update</button>
+            <button id="buttonCancel" onclick="window.location.href='/Dict'">Cancel</button>
+        </div>
+
+    </div>
+
+    <script>function updatePerson() {
+    fetch('http://127.0.0.1:8080/dict/updatesave', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    id: document.getElementsByName("id")[0].value,
+                    lastName: document.getElementsByName("lastname")[0].value,
+                    phone: document.getElementsByName("phone")[0].value
+                })
+            }).then(async response => {
+                if (response.status === 200) {
+                    window.location.href = '/Dict';
+                } else {
+                    alert(`Error ${response.status} - ${await response.text()}`);
+                }
+            });
+        }</script>
+</body>
+</html>
+
