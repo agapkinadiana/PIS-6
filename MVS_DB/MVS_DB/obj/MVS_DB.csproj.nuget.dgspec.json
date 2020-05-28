@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\STUDY\\6 term\\ASP.NET\\MVS_DB\\MVS_DB\\MVS_DB.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\PIS-6\\MVS_DB\\MVS_DB\\MVS_DB.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\STUDY\\6 term\\ASP.NET\\MVS_DB\\MVS_DB\\MVS_DB.csproj": {
+    "\\\\Mac\\Home\\Desktop\\PIS-6\\MVS_DB\\MVS_DB\\MVS_DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\STUDY\\6 term\\ASP.NET\\MVS_DB\\MVS_DB\\MVS_DB.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\PIS-6\\MVS_DB\\MVS_DB\\MVS_DB.csproj",
         "projectName": "MVS_DB",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\STUDY\\6 term\\ASP.NET\\MVS_DB\\MVS_DB\\MVS_DB.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\PIS-6\\MVS_DB\\MVS_DB\\MVS_DB.csproj",
         "packagesPath": "C:\\Users\\dianaagapkina\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\STUDY\\6 term\\ASP.NET\\MVS_DB\\MVS_DB\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\PIS-6\\MVS_DB\\MVS_DB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dianaagapkina\\AppData\\Roaming\\NuGet\\NuGet.Config",
