@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\ASP.NET\WCF\Cl\bin\Debug\Cl.exe.config
+\\Mac\Home\Desktop\ASP.NET\WCF\Cl\bin\Debug\Cl.exe
+\\Mac\Home\Desktop\ASP.NET\WCF\Cl\bin\Debug\Cl.pdb
+\\Mac\Home\Desktop\ASP.NET\WCF\Cl\obj\Debug\Cl.exe
+\\Mac\Home\Desktop\ASP.NET\WCF\Cl\obj\Debug\Cl.pdb

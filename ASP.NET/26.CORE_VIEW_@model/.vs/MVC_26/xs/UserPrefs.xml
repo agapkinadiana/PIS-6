@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{97613A7C-1D67-4623-92AD-8EE6EEFC6EB5}|Default">
+  <MonoDevelop.Ide.ItemProperties.MVC__26 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC_26/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="MVC_26/Controllers/HomeController.cs" Line="29" Column="24" />
+      <File FileName="MVC_26/Views/Home/Index.cshtml" Line="14" Column="8" />
+      <File FileName="MVC_26/Views/Home/page.cshtml" Line="11" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC_26" expanded="True">
+            <Node name="MVC_26" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

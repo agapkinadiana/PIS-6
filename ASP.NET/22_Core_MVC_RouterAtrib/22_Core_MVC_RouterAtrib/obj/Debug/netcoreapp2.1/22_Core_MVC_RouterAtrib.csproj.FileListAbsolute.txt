@@ -1,0 +1,50 @@
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.deps.json
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.runtimeconfig.json
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.runtimeconfig.dev.json
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.csprojAssemblyReference.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.csproj.CoreCompileInputs.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.RazorAssemblyInfo.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.RazorAssemblyInfo.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.AssemblyInfoInputs.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.AssemblyInfo.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.TagHelpers.input.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.TagHelpers.output.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.RazorCoreGenerate.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.RazorTargetAssemblyInfo.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.RazorTargetAssemblyInfo.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.Views.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.Views.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.Views.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.csproj.CopyComplete
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/Razor/Views/Home/Exam.g.cshtml.cs
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.deps.json
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.runtimeconfig.json
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.dll
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.pdb
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.Views.dll
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/bin/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.Views.pdb
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.RazorAssemblyInfo.cache
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.RazorAssemblyInfo.cs
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.TagHelpers.input.cache
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.TagHelpers.output.cache
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.RazorCoreGenerate.cache
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/Razor/Views/Home/Exam.cshtml.g.cs
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.RazorTargetAssemblyInfo.cache
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.RazorTargetAssemblyInfo.cs
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.Views.pdb
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.dll
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.pdb
+/Users/dianaagapkina/Desktop/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/Debug/netcoreapp2.1/22_Core_MVC_RouterAtrib.csproj.CopyComplete

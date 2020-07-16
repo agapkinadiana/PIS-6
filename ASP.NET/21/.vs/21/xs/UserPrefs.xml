@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{0B540456-0111-4606-94BA-C5C07AABC966}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="21/Startup.cs">
+    <Files>
+      <File FileName="21/Properties/launchSettings.json" Line="27" Column="2" />
+      <File FileName="21/wwwroot/index.html" />
+      <File FileName="21/Program.cs" />
+      <File FileName="21/Startup.cs" Line="49" Column="1" />
+      <File FileName="21/wwwroot/default.html" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="21" expanded="True">
+            <Node name="21" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="docs" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.21 PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

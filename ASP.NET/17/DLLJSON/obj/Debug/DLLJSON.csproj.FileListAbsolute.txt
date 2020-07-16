@@ -1,0 +1,16 @@
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/DLLJSON/bin/Debug/DLLJSON.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/DLLJSON/bin/Debug/DLLJSON.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/DLLJSON/obj/Debug/DLLJSON.csprojAssemblyReference.cache
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/DLLJSON/obj/Debug/DLLJSON.csproj.CoreCompileInputs.cache
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/DLLJSON/obj/Debug/DLLJSON.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/DLLJSON/obj/Debug/DLLJSON.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/DLLJSON/bin/Debug/DLLJSON.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/DLLJSON/bin/Debug/DLLJSON.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/DLLJSON/obj/Debug/DLLJSON.csproj.CoreCompileInputs.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/DLLJSON/obj/Debug/DLLJSON.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/DLLJSON/obj/Debug/DLLJSON.pdb
+/Users/dianaagapkina/Desktop/Task1/DLLJSON/bin/Debug/DLLJSON.dll
+/Users/dianaagapkina/Desktop/Task1/DLLJSON/bin/Debug/DLLJSON.pdb
+/Users/dianaagapkina/Desktop/Task1/DLLJSON/obj/Debug/DLLJSON.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/Task1/DLLJSON/obj/Debug/DLLJSON.dll
+/Users/dianaagapkina/Desktop/Task1/DLLJSON/obj/Debug/DLLJSON.pdb

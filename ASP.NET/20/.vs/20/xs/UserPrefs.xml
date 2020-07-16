@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{90E9D782-2366-4792-B5C1-DA8B4B7C96EB}|Default">
+  <MonoDevelop.Ide.ItemProperties.20 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="20/Startup.cs">
+    <Files>
+      <File FileName="20/Program.cs" Line="27" Column="1" />
+      <File FileName="20/Startup.cs" Line="41" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="20" expanded="True">
+            <Node name="20" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

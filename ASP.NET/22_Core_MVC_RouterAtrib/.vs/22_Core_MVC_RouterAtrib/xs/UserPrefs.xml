@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4DFC444D-6769-448D-AAD9-94E016E90F17}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="22_Core_MVC_RouterAtrib/Startup.cs">
+    <Files>
+      <File FileName="22_Core_MVC_RouterAtrib/Startup.cs" Line="29" Column="16" />
+      <File FileName="22_Core_MVC_RouterAtrib/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="22_Core_MVC_RouterAtrib" expanded="True">
+            <Node name="22_Core_MVC_RouterAtrib" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.22__Core__MVC__RouterAtrib PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

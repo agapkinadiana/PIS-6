@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FDF00FE8-EECC-48F6-BE00-EF5DC3329BF2}|">
+  <MonoDevelop.Ide.ItemProperties.7__WebApplication PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="7_WebApplication/WebForm1.aspx.cs">
+    <Files>
+      <File FileName="7_WebApplication/WebForm1.aspx" Line="1" Column="1" />
+      <File FileName="7_WebApplication/WebForm1.aspx.cs" Line="19" Column="51" />
+      <File FileName="7_WebApplication/Web.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="7_WebApplication" expanded="True">
+            <Node name="7_WebApplication" expanded="True">
+              <Node name="WebForm1.aspx" expanded="True">
+                <Node name="WebForm1.aspx.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

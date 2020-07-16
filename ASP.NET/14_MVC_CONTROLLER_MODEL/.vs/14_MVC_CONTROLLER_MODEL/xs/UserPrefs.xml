@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{19161500-26D9-454E-8DB2-74A324F446C1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="14_MVC_CONTROLLER_MODEL/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="14_MVC_CONTROLLER_MODEL/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="14_MVC_CONTROLLER_MODEL/Models/PersonRepository.cs" Line="12" Column="143" />
+      <File FileName="14_MVC_CONTROLLER_MODEL/Views/Home/Add.cshtml" Line="43" Column="25" />
+      <File FileName="14_MVC_CONTROLLER_MODEL/Views/Home/Index.cshtml" Line="49" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="14_MVC_CONTROLLER_MODEL" expanded="True">
+            <Node name="14_MVC_CONTROLLER_MODEL" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.14__MVC__CONTROLLER__MODEL PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

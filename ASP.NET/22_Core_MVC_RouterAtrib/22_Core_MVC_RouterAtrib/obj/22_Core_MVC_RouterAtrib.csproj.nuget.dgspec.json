@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dianaagapkina/Desktop/ASP.NET/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib.csproj": {}
+  },
+  "projects": {
+    "/Users/dianaagapkina/Desktop/ASP.NET/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dianaagapkina/Desktop/ASP.NET/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib.csproj",
+        "projectName": "22_Core_MVC_RouterAtrib",
+        "projectPath": "/Users/dianaagapkina/Desktop/ASP.NET/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib.csproj",
+        "packagesPath": "/Users/dianaagapkina/.nuget/packages/",
+        "outputPath": "/Users/dianaagapkina/Desktop/ASP.NET/22_Core_MVC_RouterAtrib/22_Core_MVC_RouterAtrib/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dianaagapkina/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

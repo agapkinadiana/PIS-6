@@ -1,0 +1,34 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+</head>
+<body>
+    <div>
+        <h2>Phonebook:</h2>
+
+        @foreach (var person in Model.GetAll())
+        {
+    <div class="forms">
+
+        <span><strong>LastName:</strong> @person.LastName, </span>
+
+        <span><strong>Mobile phone:</strong> @person.Phone </span>
+        <br />
+    </div>
+        }
+
+    </div>
+    <div style="margin-top:2rem;">
+        <button id="buttonAdd" onclick="window.location.href='/dict/add'">Add new person</button>
+    </div>
+</body>
+</html>
+

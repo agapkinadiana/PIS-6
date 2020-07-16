@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{E4BC972B-A0B5-4133-96ED-4073A0178F50}|Default">
+  <MonoDevelop.Ide.ItemProperties.view PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="view/Views/_ViewStart.cshtml">
+    <Files>
+      <File FileName="view/Views/Shared/_Layout.cshtml" Line="72" Column="28" />
+      <File FileName="view/Views/Home/View.cshtml" Line="6" Column="2" />
+      <File FileName="view/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="view/Views/_ViewStart.cshtml" Line="9" Column="2" />
+      <File FileName="view/Controllers/HomeController.cs" Line="21" Column="26" />
+      <File FileName="view/Views/Home/Privacy.cshtml" Line="6" Column="1" />
+      <File FileName="view/Views/_ViewImports.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="view" expanded="True">
+            <Node name="view" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="_ViewStart.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

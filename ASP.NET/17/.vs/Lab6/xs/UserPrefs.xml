@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6A8E534B-059E-4998-A4DC-1023865A00CF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab6/Controllers/DictController.cs">
+    <Files>
+      <File FileName="DLLJSON/Class1.cs" Line="1" Column="1" />
+      <File FileName="Lab6/Controllers/DictController.cs" Line="24" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab6" expanded="True">
+            <Node name="DLLJSON" expanded="True" />
+            <Node name="Lab6" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="DictController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab6 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,164 @@
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/5_JS.dll.config
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/5_JS.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/5_JS.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/csc.exe
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/csc.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/csc.rsp
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/csi.exe
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/csi.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/csi.rsp
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/Microsoft.Managed.Core.targets
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.AppContext.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Collections.Immutable.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Console.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.IO.Compression.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.IO.FileSystem.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.IO.Pipes.AccessControl.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.IO.Pipes.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Reflection.Metadata.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Security.AccessControl.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Security.Claims.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Security.Principal.Windows.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.ValueTuple.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Xml.XmlDocument.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Xml.XPath.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/vbc.exe
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/vbc.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/vbc.rsp
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/VBCSCompiler.exe
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/roslyn/VBCSCompiler.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/Antlr3.Runtime.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/Microsoft.Web.Infrastructure.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/Newtonsoft.Json.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.Helpers.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.Mvc.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.Optimization.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.Razor.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.WebPages.Deployment.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.WebPages.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.WebPages.Razor.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/WebGrease.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.Helpers.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.Mvc.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.Optimization.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.Razor.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.WebPages.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.WebPages.Deployment.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/System.Web.WebPages.Razor.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/Newtonsoft.Json.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/Antlr3.Runtime.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/ru/System.Web.Helpers.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/ru/System.Web.Mvc.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/ru/System.Web.Optimization.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/ru/System.Web.Razor.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/ru/System.Web.WebPages.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/ru/System.Web.WebPages.Deployment.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/bin/ru/System.Web.WebPages.Razor.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/obj/Debug/5_JS.csprojAssemblyReference.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/obj/Debug/5_JS.csproj.CoreCompileInputs.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/obj/Debug/5_JS.csproj.CopyComplete
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/obj/Debug/5_JS.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/5_JS/5_JS/obj/Debug/5_JS.pdb
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/5_JS.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/5_JS.pdb
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/csc.exe
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/csc.exe.config
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/csc.rsp
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/csi.exe
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/csi.exe.config
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/csi.rsp
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.AppContext.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Collections.Immutable.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Console.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.IO.Compression.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.IO.FileSystem.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.IO.Pipes.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Reflection.Metadata.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Security.AccessControl.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Security.Claims.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.ValueTuple.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Xml.XPath.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/vbc.exe
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/vbc.exe.config
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/vbc.rsp
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/VBCSCompiler.exe
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/roslyn/VBCSCompiler.exe.config
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/Antlr3.Runtime.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/Microsoft.Web.Infrastructure.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/Newtonsoft.Json.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.Helpers.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.Mvc.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.Optimization.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.Razor.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.WebPages.Deployment.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.WebPages.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.WebPages.Razor.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/WebGrease.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.Helpers.xml
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.Mvc.xml
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.Optimization.xml
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.Razor.xml
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.WebPages.xml
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.WebPages.Deployment.xml
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/System.Web.WebPages.Razor.xml
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/Newtonsoft.Json.xml
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/Antlr3.Runtime.pdb
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/ru/System.Web.Helpers.resources.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/ru/System.Web.Mvc.resources.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/ru/System.Web.Optimization.resources.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/ru/System.Web.Razor.resources.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/ru/System.Web.WebPages.resources.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/ru/System.Web.WebPages.Deployment.resources.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/bin/ru/System.Web.WebPages.Razor.resources.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/obj/Debug/5_JS.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/obj/Debug/5_JS.csproj.CopyComplete
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/obj/Debug/5_JS.dll
+/Users/dianaagapkina/Desktop/ASP.NET/5_JS/5_JS/obj/Debug/5_JS.pdb

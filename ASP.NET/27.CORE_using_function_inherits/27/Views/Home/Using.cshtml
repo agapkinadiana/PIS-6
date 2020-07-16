@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Using";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>27</title>
+</head>
+<body>
+    <!--для создания формы-->
+    @using (Html.BeginForm())
+    {
+        <div>
+            Email: <input type="email" id="Email" value="">
+            <button>Register</button>
+        </div>
+    }
+    <a asp-controller="Home" asp-action="Index">Index</a>
+</body>
+</html>

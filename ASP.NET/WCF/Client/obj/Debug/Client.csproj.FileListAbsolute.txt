@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\ASP.NET\WCF\Client\bin\Debug\Client.exe.config
+\\Mac\Home\Desktop\ASP.NET\WCF\Client\bin\Debug\Client.exe
+\\Mac\Home\Desktop\ASP.NET\WCF\Client\bin\Debug\Client.pdb
+\\Mac\Home\Desktop\ASP.NET\WCF\Client\obj\Debug\Client.exe
+\\Mac\Home\Desktop\ASP.NET\WCF\Client\obj\Debug\Client.pdb
+\\Mac\Home\Desktop\ASP.NET\WCF\Client\obj\Debug\Client.csprojAssemblyReference.cache

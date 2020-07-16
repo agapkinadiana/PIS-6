@@ -1,0 +1,14 @@
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/bin/Debug/netcoreapp2.1/MVC_24.deps.json
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/bin/Debug/netcoreapp2.1/MVC_24.runtimeconfig.json
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/bin/Debug/netcoreapp2.1/MVC_24.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/bin/Debug/netcoreapp2.1/MVC_24.dll
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/bin/Debug/netcoreapp2.1/MVC_24.pdb
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/obj/Debug/netcoreapp2.1/MVC_24.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/obj/Debug/netcoreapp2.1/MVC_24.RazorAssemblyInfo.cache
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/obj/Debug/netcoreapp2.1/MVC_24.RazorAssemblyInfo.cs
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/obj/Debug/netcoreapp2.1/MVC_24.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/obj/Debug/netcoreapp2.1/MVC_24.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/obj/Debug/netcoreapp2.1/MVC_24.RazorTargetAssemblyInfo.cache
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/obj/Debug/netcoreapp2.1/MVC_24.dll
+/Users/dianaagapkina/Desktop/ASP.NET/24.CORE_onAction_httpGET/MVC_24/obj/Debug/netcoreapp2.1/MVC_24.pdb

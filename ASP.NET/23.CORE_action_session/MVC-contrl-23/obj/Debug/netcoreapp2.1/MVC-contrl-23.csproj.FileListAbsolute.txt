@@ -1,0 +1,14 @@
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/bin/Debug/netcoreapp2.1/MVC-contrl-23.deps.json
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/bin/Debug/netcoreapp2.1/MVC-contrl-23.runtimeconfig.json
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/bin/Debug/netcoreapp2.1/MVC-contrl-23.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/bin/Debug/netcoreapp2.1/MVC-contrl-23.dll
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/bin/Debug/netcoreapp2.1/MVC-contrl-23.pdb
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/obj/Debug/netcoreapp2.1/MVC-contrl-23.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/obj/Debug/netcoreapp2.1/MVC-contrl-23.RazorAssemblyInfo.cache
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/obj/Debug/netcoreapp2.1/MVC-contrl-23.RazorAssemblyInfo.cs
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/obj/Debug/netcoreapp2.1/MVC-contrl-23.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/obj/Debug/netcoreapp2.1/MVC-contrl-23.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/obj/Debug/netcoreapp2.1/MVC-contrl-23.RazorTargetAssemblyInfo.cache
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/obj/Debug/netcoreapp2.1/MVC-contrl-23.dll
+/Users/dianaagapkina/Desktop/ASP.NET/23.CORE_action_session/MVC-contrl-23/obj/Debug/netcoreapp2.1/MVC-contrl-23.pdb

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{42C6E6F8-98DC-4DB2-8530-495BB422AD45}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="27/Views/Home/Inherits.cshtml">
+    <Files>
+      <File FileName="27/Service/ITimeService.cs" Line="1" Column="1" />
+      <File FileName="27/Service/SimpleTimeService.cs" Line="1" Column="1" />
+      <File FileName="27/Views/Home/Inherits.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="27" expanded="True">
+            <Node name="27" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Inherits.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.27 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

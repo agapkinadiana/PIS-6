@@ -1,0 +1,60 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        #buttonUpdate {
+            height: 30px;
+            width: 130px;
+            background: #fcd1eb;
+            border-radius: 20px;
+        }
+
+        #buttonDelete {
+            height: 30px;
+            width: 130px;
+            background: #fcd1eb;
+            border-radius: 20px;
+        }
+
+        #buttonAdd {
+            height: 50px;
+            width: 300px;
+            background: #b7efa0;
+            border-radius: 20px;
+        }
+
+        .forms {
+            border: 1px solid gray;
+            width: 27%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h2>Phonebook:</h2>
+
+        @foreach (var person in Model.GetAll())
+        {
+            <div class="forms">
+
+                <span>Surname: <strong>@person.LastName</strong>  ,</span>
+
+                <span>Mobile phone:<strong>@person.Phone</strong> </span>
+
+                <br />
+            </div>
+        }
+
+    </div>
+    <div style="margin-top:3rem;">
+        <button id="buttonAdd" onclick="window.location.href='/home/add'">Add new person</button>
+    </div>
+</body>
+</html>

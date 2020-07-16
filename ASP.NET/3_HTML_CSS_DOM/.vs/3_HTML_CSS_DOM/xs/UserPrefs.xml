@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{020868DB-D2D6-4CBE-8DB2-E5BA629285E7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="3_HTML_CSS_DOM/fonts/style.css">
+    <Files>
+      <File FileName="3_HTML_CSS_DOM/Controllers/HomeController.cs" Line="15" Column="119" />
+      <File FileName="3_HTML_CSS_DOM/Views/index.html" Line="1" Column="1" />
+      <File FileName="3_HTML_CSS_DOM/fonts/style.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3_HTML_CSS_DOM" expanded="True">
+            <Node name="3_HTML_CSS_DOM" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="fonts" expanded="True">
+                <Node name="style.css" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.3__HTML__CSS__DOM PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

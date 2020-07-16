@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\ASP.NET\WCF\HostingWCF\bin\Debug\HostingWCF.exe.config
+\\Mac\Home\Desktop\ASP.NET\WCF\HostingWCF\bin\Debug\HostingWCF.exe
+\\Mac\Home\Desktop\ASP.NET\WCF\HostingWCF\bin\Debug\HostingWCF.pdb
+\\Mac\Home\Desktop\ASP.NET\WCF\HostingWCF\bin\Debug\WCF.dll
+\\Mac\Home\Desktop\ASP.NET\WCF\HostingWCF\bin\Debug\WCF.pdb
+\\Mac\Home\Desktop\ASP.NET\WCF\HostingWCF\bin\Debug\WCF.dll.config
+\\Mac\Home\Desktop\ASP.NET\WCF\HostingWCF\obj\Debug\HostingWCF.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\ASP.NET\WCF\HostingWCF\obj\Debug\HostingWCF.csproj.CopyComplete
+\\Mac\Home\Desktop\ASP.NET\WCF\HostingWCF\obj\Debug\HostingWCF.exe
+\\Mac\Home\Desktop\ASP.NET\WCF\HostingWCF\obj\Debug\HostingWCF.pdb

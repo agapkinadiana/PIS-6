@@ -1,0 +1,262 @@
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/obj/Debug/Lab6.csprojAssemblyReference.cache
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/obj/Debug/Lab6.csproj.CoreCompileInputs.cache
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Lab6.dll.config
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Lab6.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Lab6.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/csc.exe
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/csc.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/csc.rsp
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/csi.exe
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/csi.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/csi.rsp
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/Microsoft.Managed.Core.targets
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.AppContext.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Collections.Immutable.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Console.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.IO.Compression.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.IO.FileSystem.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.IO.Pipes.AccessControl.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.IO.Pipes.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Reflection.Metadata.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Security.AccessControl.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Security.Claims.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Security.Principal.Windows.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.ValueTuple.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Xml.XmlDocument.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Xml.XPath.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/vbc.exe
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/vbc.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/vbc.rsp
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/VBCSCompiler.exe
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/roslyn/VBCSCompiler.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/DLLJSON.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Microsoft.Web.Infrastructure.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Ninject.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Ninject.Extensions.NamedScope.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Ninject.Web.Common.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Ninject.Web.Common.WebHost.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Ninject.Web.Mvc.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/System.Web.Helpers.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/System.Web.Mvc.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/System.Web.Razor.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/System.Web.Webpages.Deployment.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/System.Web.Webpages.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/System.Web.Webpages.Razor.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/WebActivatorEx.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/DLLJSON.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Ninject.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Ninject.Extensions.NamedScope.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Ninject.Web.Common.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Ninject.Web.Common.WebHost.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Ninject.Web.Mvc.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/System.Web.Razor.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/System.Web.Webpages.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/System.Web.Webpages.Deployment.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/System.Web.Webpages.Razor.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/System.Web.Helpers.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/System.Web.Mvc.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/ru/System.Web.Razor.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/ru/System.Web.Webpages.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/ru/System.Web.Webpages.Deployment.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/ru/System.Web.Webpages.Razor.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/ru/System.Web.Helpers.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/bin/ru/System.Web.Mvc.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/obj/Debug/Lab6.csproj.CopyComplete
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/obj/Debug/Lab6.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab6/Lab6/obj/Debug/Lab6.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Lab6.dll.config
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Lab6.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Lab6.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/csc.exe
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/csc.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/csc.rsp
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/csi.exe
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/csi.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/csi.rsp
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/Microsoft.Managed.Core.targets
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.AppContext.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Collections.Immutable.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Console.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.IO.Compression.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.IO.FileSystem.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.IO.Pipes.AccessControl.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.IO.Pipes.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Reflection.Metadata.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Security.AccessControl.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Security.Claims.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Security.Principal.Windows.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.ValueTuple.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Xml.XmlDocument.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Xml.XPath.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/vbc.exe
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/vbc.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/vbc.rsp
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/VBCSCompiler.exe
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/roslyn/VBCSCompiler.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/DLLJSON.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Microsoft.Web.Infrastructure.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Ninject.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Ninject.Extensions.NamedScope.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Ninject.Web.Common.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Ninject.Web.Common.WebHost.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Ninject.Web.Mvc.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/System.Web.Helpers.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/System.Web.Mvc.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/System.Web.Razor.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/System.Web.Webpages.Deployment.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/System.Web.Webpages.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/System.Web.Webpages.Razor.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/WebActivatorEx.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/DLLJSON.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Ninject.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Ninject.Extensions.NamedScope.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Ninject.Web.Common.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Ninject.Web.Common.WebHost.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Ninject.Web.Mvc.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/System.Web.Razor.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/System.Web.Webpages.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/System.Web.Webpages.Deployment.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/System.Web.Webpages.Razor.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/System.Web.Helpers.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/System.Web.Mvc.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/ru/System.Web.Razor.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/ru/System.Web.Webpages.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/ru/System.Web.Webpages.Deployment.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/ru/System.Web.Webpages.Razor.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/ru/System.Web.Helpers.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/bin/ru/System.Web.Mvc.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/obj/Debug/Lab6.csprojAssemblyReference.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/obj/Debug/Lab6.csproj.CoreCompileInputs.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/obj/Debug/Lab6.csproj.CopyComplete
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/obj/Debug/Lab6.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/Task1/Lab6/obj/Debug/Lab6.pdb
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Lab6.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Lab6.pdb
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/csc.exe
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/csc.exe.config
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/csc.rsp
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/csi.exe
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/csi.exe.config
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/csi.rsp
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.AppContext.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Collections.Immutable.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Console.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.IO.Compression.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.IO.FileSystem.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.IO.Pipes.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Reflection.Metadata.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Security.AccessControl.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Security.Claims.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.ValueTuple.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Xml.XPath.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/vbc.exe
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/vbc.exe.config
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/vbc.rsp
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/VBCSCompiler.exe
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/roslyn/VBCSCompiler.exe.config
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/DLLJSON.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Microsoft.Web.Infrastructure.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Ninject.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Ninject.Extensions.NamedScope.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Ninject.Web.Common.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Ninject.Web.Common.WebHost.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Ninject.Web.Mvc.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/System.Web.Helpers.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/System.Web.Mvc.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/System.Web.Razor.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/System.Web.Webpages.Deployment.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/System.Web.Webpages.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/System.Web.Webpages.Razor.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/WebActivatorEx.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/DLLJSON.pdb
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Ninject.xml
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Ninject.Extensions.NamedScope.xml
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Ninject.Web.Common.xml
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Ninject.Web.Common.WebHost.xml
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Ninject.Web.Mvc.xml
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/System.Web.Razor.xml
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/System.Web.Webpages.xml
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/System.Web.Webpages.Deployment.xml
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/System.Web.Webpages.Razor.xml
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/System.Web.Helpers.xml
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/System.Web.Mvc.xml
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/ru/System.Web.Razor.resources.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/ru/System.Web.Webpages.resources.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/ru/System.Web.Webpages.Deployment.resources.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/ru/System.Web.Webpages.Razor.resources.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/ru/System.Web.Helpers.resources.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/bin/ru/System.Web.Mvc.resources.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/obj/Debug/Lab6.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/Task1/Lab6/obj/Debug/Lab6.csproj.CopyComplete
+/Users/dianaagapkina/Desktop/Task1/Lab6/obj/Debug/Lab6.dll
+/Users/dianaagapkina/Desktop/Task1/Lab6/obj/Debug/Lab6.pdb

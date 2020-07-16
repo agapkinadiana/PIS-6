@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "Inherits";
+
+}
+@inherits _27.Controllers.HomeController.CustomRazorPage<TModel>
+@inject _27.Service.ITimeService Timer
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>27</title>
+</head>
+<body>
+    <div>Custom text: @CustomText</div>
+    <h2>Текущее время: @Timer.GetTime()</h2>
+    <a asp-controller="Home" asp-action="Index">Index</a>
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9205A6D9-868F-43ED-89FB-E54C1A821C11}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="31_Helper/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="31_Helper/App_Code/ListHelper.cs" Line="25" Column="14" />
+      <File FileName="31_Helper/Views/Home/Index.cshtml" Line="12" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="31_Helper" expanded="True">
+            <Node name="31_Helper" expanded="True">
+              <Node name="App_Code" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.31__Helper PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

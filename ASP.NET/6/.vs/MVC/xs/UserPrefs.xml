@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{93312795-D144-44A6-8A50-16755CC089E5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC/Controllers/DictController.cs">
+    <Files>
+      <File FileName="MVC/App_Start/RouteConfig.cs" Line="14" Column="42" />
+      <File FileName="MVC/Views/Dict/Index.cshtml" />
+      <File FileName="MVC/Views/Dict/Add.cshtml" />
+      <File FileName="MVC/Controllers/DictController.cs" Line="29" Column="10" />
+      <File FileName="MVC/Models/PersonRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC" expanded="True">
+            <Node name="MVC" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="DictController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Dict" expanded="True" />
+              </Node>
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MVC PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

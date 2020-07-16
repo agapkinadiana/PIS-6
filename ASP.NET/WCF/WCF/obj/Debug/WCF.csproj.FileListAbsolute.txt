@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\ASP.NET\WCF\WCF\bin\Debug\WCF.dll.config
+\\Mac\Home\Desktop\ASP.NET\WCF\WCF\bin\Debug\WCF.dll
+\\Mac\Home\Desktop\ASP.NET\WCF\WCF\bin\Debug\WCF.pdb
+\\Mac\Home\Desktop\ASP.NET\WCF\WCF\obj\Debug\WCF.dll
+\\Mac\Home\Desktop\ASP.NET\WCF\WCF\obj\Debug\WCF.pdb

@@ -1,0 +1,10 @@
+D:\Учёба\3 curs\2 сем\asp.NET\exzam\10_ASMX\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Учёба\3 curs\2 сем\asp.NET\exzam\10_ASMX\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Учёба\3 curs\2 сем\asp.NET\exzam\10_ASMX\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Учёба\3 curs\2 сем\asp.NET\exzam\10_ASMX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\asp.NET\exzam\10_ASMX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Учёба\3 curs\2 сем\asp.NET\exzam\10_ASMX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Учёба\3 curs\2 сем\asp.NET\exzam\10_ASMX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Учёба\3 curs\2 сем\asp.NET\exzam\10_ASMX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\asp.NET\exzam\10_ASMX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Учёба\3 curs\2 сем\asp.NET\exzam\10_ASMX\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,60 @@
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.csprojAssemblyReference.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.csproj.CoreCompileInputs.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.RazorAssemblyInfo.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.RazorAssemblyInfo.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.AssemblyInfoInputs.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.AssemblyInfo.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.TagHelpers.input.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.TagHelpers.output.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.RazorCoreGenerate.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.RazorTargetAssemblyInfo.cache
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.RazorTargetAssemblyInfo.cs
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.deps.json
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.runtimeconfig.json
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.runtimeconfig.dev.json
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.Views.dll
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.Views.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.Views.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/exzam/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.csproj.CopyComplete
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.deps.json
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.runtimeconfig.json
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.dll
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.pdb
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.Views.dll
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/bin/Debug/netcoreapp2.1/31_Helper.Views.pdb
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.RazorAssemblyInfo.cache
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.RazorAssemblyInfo.cs
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.TagHelpers.input.cache
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.TagHelpers.output.cache
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.RazorCoreGenerate.cache
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.RazorTargetAssemblyInfo.cache
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.RazorTargetAssemblyInfo.cs
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.Views.pdb
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.dll
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.pdb
+/Users/dianaagapkina/Desktop/ASP.NET/31_Helper/31_Helper/obj/Debug/netcoreapp2.1/31_Helper.csproj.CopyComplete
