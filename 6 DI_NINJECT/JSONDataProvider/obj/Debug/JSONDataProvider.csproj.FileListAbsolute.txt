@@ -1,0 +1,13 @@
+/Users/dianaagapkina/Desktop/Lab_3_MVC/JSONDataProvider/bin/Debug/JSONDataProvider.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/JSONDataProvider/bin/Debug/JSONDataProvider.pdb
+/Users/dianaagapkina/Desktop/Lab_3_MVC/JSONDataProvider/bin/Debug/AbstractPhoneDataProvider.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/JSONDataProvider/obj/Debug/JSONDataProvider.csproj.CopyComplete
+/Users/dianaagapkina/Desktop/Lab_3_MVC/JSONDataProvider/obj/Debug/JSONDataProvider.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/JSONDataProvider/obj/Debug/JSONDataProvider.pdb
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/JSONDataProvider/bin/Debug/JSONDataProvider.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/JSONDataProvider/bin/Debug/JSONDataProvider.pdb
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/JSONDataProvider/bin/Debug/AbstractPhoneDataProvider.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/JSONDataProvider/obj/Debug/JSONDataProvider.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/JSONDataProvider/obj/Debug/JSONDataProvider.csproj.CopyComplete
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/JSONDataProvider/obj/Debug/JSONDataProvider.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/JSONDataProvider/obj/Debug/JSONDataProvider.pdb

@@ -1,0 +1,8 @@
+﻿<div>
+    <h1>@Model.LastName</h1>
+    <span>@Model.Phone</span>
+    <div>
+        <button onclick="updatePerson('@Model.Id', '@Model.LastName', '@Model.Phone')">Update</button>
+        <button onclick="deletePerson('@Model.Id')">Delete</button>
+    </div>
+</div>

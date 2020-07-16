@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{D6B508C9-9127-4940-9DC8-D4EC3CB56FEA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab_3_MVC/Utils/NinjectRegistrations.cs">
+    <Files>
+      <File FileName="Lab_3_MVC/Controllers/DictController.cs" Line="15" Column="38" />
+      <File FileName="Lab_3_MVC/Utils/NinjectRegistrations.cs" Line="12" Column="48" />
+      <File FileName="AbstractPhoneDataProvider/IPhoneDictionary.cs" Line="1" Column="1" />
+      <File FileName="JSONDataProvider/PersonRepository.cs" Line="1" Column="1" />
+      <File FileName="EntityFrameworkDataProvider/PersonRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab_3_MVC" expanded="True">
+            <Node name="AbstractPhoneDataProvider" expanded="True" />
+            <Node name="EntityFrameworkDataProvider" expanded="True" />
+            <Node name="JSONDataProvider" expanded="True" />
+            <Node name="Lab_3_MVC" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+              </Node>
+              <Node name="Utils" expanded="True">
+                <Node name="NinjectRegistrations.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Error" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab__3__MVC PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

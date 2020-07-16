@@ -1,0 +1,13 @@
+D:\university\3 course\2 sem\Internet Servers Programming, ASP.NET\labs\Lab_3_MVC\JSONDataProvider\bin\Release\JSONDataProvider.dll
+D:\university\3 course\2 sem\Internet Servers Programming, ASP.NET\labs\Lab_3_MVC\JSONDataProvider\bin\Release\JSONDataProvider.pdb
+D:\university\3 course\2 sem\Internet Servers Programming, ASP.NET\labs\Lab_3_MVC\JSONDataProvider\obj\Release\JSONDataProvider.csprojAssemblyReference.cache
+D:\university\3 course\2 sem\Internet Servers Programming, ASP.NET\labs\Lab_3_MVC\JSONDataProvider\obj\Release\JSONDataProvider.csproj.CoreCompileInputs.cache
+D:\university\3 course\2 sem\Internet Servers Programming, ASP.NET\labs\Lab_3_MVC\JSONDataProvider\obj\Release\JSONDataProvider.dll
+D:\university\3 course\2 sem\Internet Servers Programming, ASP.NET\labs\Lab_3_MVC\JSONDataProvider\obj\Release\JSONDataProvider.pdb
+D:\university\3 course\2 sem\Internet Servers Programming, ASP.NET\labs\Lab_3_MVC\JSONDataProvider\obj\Release\JSONDataProvider.csproj.CopyComplete
+\\Mac\Home\Desktop\Lab_3_MVC\JSONDataProvider\bin\Release\JSONDataProvider.dll
+\\Mac\Home\Desktop\Lab_3_MVC\JSONDataProvider\bin\Release\JSONDataProvider.pdb
+\\Mac\Home\Desktop\Lab_3_MVC\JSONDataProvider\obj\Release\JSONDataProvider.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Lab_3_MVC\JSONDataProvider\obj\Release\JSONDataProvider.csproj.CopyComplete
+\\Mac\Home\Desktop\Lab_3_MVC\JSONDataProvider\obj\Release\JSONDataProvider.dll
+\\Mac\Home\Desktop\Lab_3_MVC\JSONDataProvider\obj\Release\JSONDataProvider.pdb

@@ -1,0 +1,25 @@
+﻿@using Lab_3_MVC.Utils;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Header {
+    <div>
+        <h3>Add New Item page header</h3>
+    </div>
+}
+
+<div>
+
+    @Html.AddNewForm()
+
+    <div>
+        <button onclick="window.location.href='/Dict'">Cancel</button>
+    </div>
+</div>
+
+@section Footer {
+    <div>
+        <h3>Add New Item page footer</h3>
+    </div>
+}

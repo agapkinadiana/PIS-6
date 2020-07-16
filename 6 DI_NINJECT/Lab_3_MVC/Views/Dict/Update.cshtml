@@ -1,0 +1,27 @@
+﻿@using Lab_3_MVC.Utils;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Header {
+    <div>
+        <h3>Update page header</h3>
+    </div>
+}
+
+<div>
+    <div>
+
+        @Html.UpdateForm((object)Model)
+
+        <div>
+            <button onclick="window.location.href='/Dict'">Cancel</button>
+        </div>
+    </div>
+</div>
+
+@section Footer {
+    <div>
+        <h3>Update page footer</h3>
+    </div>
+}

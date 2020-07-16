@@ -1,0 +1,5 @@
+D:\university\3 course\2 sem\Internet Servers Programming, ASP.NET\labs\Lab_3_MVC\AbstractPhoneDataProvider\bin\Release\AbstractPhoneDataProvider.dll
+D:\university\3 course\2 sem\Internet Servers Programming, ASP.NET\labs\Lab_3_MVC\AbstractPhoneDataProvider\bin\Release\AbstractPhoneDataProvider.pdb
+D:\university\3 course\2 sem\Internet Servers Programming, ASP.NET\labs\Lab_3_MVC\AbstractPhoneDataProvider\obj\Release\AbstractPhoneDataProvider.csproj.CoreCompileInputs.cache
+D:\university\3 course\2 sem\Internet Servers Programming, ASP.NET\labs\Lab_3_MVC\AbstractPhoneDataProvider\obj\Release\AbstractPhoneDataProvider.dll
+D:\university\3 course\2 sem\Internet Servers Programming, ASP.NET\labs\Lab_3_MVC\AbstractPhoneDataProvider\obj\Release\AbstractPhoneDataProvider.pdb

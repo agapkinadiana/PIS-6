@@ -1,0 +1,326 @@
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/Lab_3_MVC.dll.config
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/Lab_3_MVC.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/Lab_3_MVC.pdb
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csc.exe
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csc.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csc.rsp
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csi.exe
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csi.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csi.rsp
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.Managed.Core.targets
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.AppContext.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Collections.Immutable.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Console.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.Compression.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.FileSystem.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.Pipes.AccessControl.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.Pipes.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Reflection.Metadata.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.AccessControl.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Claims.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Principal.Windows.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.ValueTuple.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Xml.XmlDocument.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Xml.XPath.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/vbc.exe
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/vbc.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/vbc.rsp
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/VBCSCompiler.exe
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/roslyn/VBCSCompiler.exe.config
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/Microsoft.Web.Infrastructure.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Helpers.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Mvc.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Razor.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.Deployment.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.Razor.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Razor.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.Deployment.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.Razor.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Helpers.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Mvc.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Razor.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Webpages.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Webpages.Deployment.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Webpages.Razor.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Helpers.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Mvc.resources.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/obj/Debug/Lab_3_MVC.csprojAssemblyReference.cache
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/obj/Debug/Lab_3_MVC.csproj.CoreCompileInputs.cache
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/obj/Debug/Lab_3_MVC.csproj.CopyComplete
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/obj/Debug/Lab_3_MVC.dll
+D:/Учёба/3 curs/2 сем/asp.NET/Lab_3_MVC/Lab_3_MVC/obj/Debug/Lab_3_MVC.pdb
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/Lab_3_MVC.dll.config
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/Lab_3_MVC.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/Lab_3_MVC.pdb
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csc.exe
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csc.exe.config
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csc.rsp
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csi.exe
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csi.exe.config
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csi.rsp
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.Managed.Core.targets
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.AppContext.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Collections.Immutable.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Console.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Diagnostics.StackTrace.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.Compression.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.FileSystem.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.FileSystem.Primitives.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.Pipes.AccessControl.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.Pipes.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Reflection.Metadata.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.AccessControl.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Claims.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.Encoding.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.Primitives.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Principal.Windows.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.ValueTuple.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Xml.ReaderWriter.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Xml.XmlDocument.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Xml.XPath.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Xml.XPath.XDocument.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/vbc.exe
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/vbc.exe.config
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/vbc.rsp
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/VBCSCompiler.exe
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/roslyn/VBCSCompiler.exe.config
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/Microsoft.Web.Infrastructure.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Helpers.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Mvc.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Razor.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.Deployment.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.Razor.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Razor.xml
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.xml
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.Deployment.xml
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.Razor.xml
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Helpers.xml
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Mvc.xml
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Razor.resources.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Webpages.resources.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Webpages.Deployment.resources.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Webpages.Razor.resources.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Helpers.resources.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Mvc.resources.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/obj/Debug/Lab_3_MVC.csproj.CopyComplete
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/obj/Debug/Lab_3_MVC.dll
+D:/university/3 course/2 sem/Internet Servers Programming, ASP.NET/labs/Lab_3_MVC/Lab_3_MVC/obj/Debug/Lab_3_MVC.pdb
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Lab_3_MVC.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Lab_3_MVC.pdb
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csc.exe
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csc.exe.config
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csc.rsp
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csi.exe
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csi.exe.config
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/csi.rsp
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.AppContext.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Collections.Immutable.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Console.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.Compression.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.FileSystem.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.IO.Pipes.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Reflection.Metadata.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.AccessControl.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Claims.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.ValueTuple.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Xml.XPath.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/vbc.exe
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/vbc.exe.config
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/vbc.rsp
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/VBCSCompiler.exe
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/roslyn/VBCSCompiler.exe.config
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/AbstractPhoneDataProvider.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/EntityFramework.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/EntityFramework.SqlServer.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Microsoft.Web.Infrastructure.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Ninject.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Ninject.Extensions.NamedScope.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Ninject.Web.Common.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Ninject.Web.Common.WebHost.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Ninject.Web.Mvc.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Helpers.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Mvc.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Razor.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.Deployment.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.Razor.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/WebActivatorEx.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/EntityFramework.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/EntityFramework.SqlServer.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Ninject.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Ninject.Extensions.NamedScope.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Ninject.Web.Common.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Ninject.Web.Common.WebHost.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Ninject.Web.Mvc.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Razor.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.Deployment.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Webpages.Razor.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Helpers.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/System.Web.Mvc.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Razor.resources.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Webpages.resources.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Webpages.Deployment.resources.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Webpages.Razor.resources.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Helpers.resources.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/bin/ru/System.Web.Mvc.resources.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/obj/Debug/Lab_3_MVC.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/obj/Debug/Lab_3_MVC.csproj.CopyComplete
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/obj/Debug/Lab_3_MVC.dll
+/Users/dianaagapkina/Desktop/Lab_3_MVC/Lab_3_MVC/obj/Debug/Lab_3_MVC.pdb
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Lab_3_MVC.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Lab_3_MVC.pdb
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/csc.exe
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/csc.exe.config
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/csc.rsp
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/csi.exe
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/csi.exe.config
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/csi.rsp
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.AppContext.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Collections.Immutable.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Console.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.IO.Compression.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.IO.FileSystem.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.IO.Pipes.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Reflection.Metadata.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Security.AccessControl.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Security.Claims.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.ValueTuple.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Xml.XPath.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/vbc.exe
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/vbc.exe.config
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/vbc.rsp
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/VBCSCompiler.exe
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/roslyn/VBCSCompiler.exe.config
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/AbstractPhoneDataProvider.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/EntityFramework.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/EntityFramework.SqlServer.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Microsoft.Web.Infrastructure.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Ninject.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Ninject.Extensions.NamedScope.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Ninject.Web.Common.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Ninject.Web.Common.WebHost.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Ninject.Web.Mvc.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/System.Web.Helpers.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/System.Web.Mvc.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/System.Web.Razor.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/System.Web.Webpages.Deployment.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/System.Web.Webpages.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/System.Web.Webpages.Razor.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/WebActivatorEx.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/EntityFramework.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/EntityFramework.SqlServer.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Ninject.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Ninject.Extensions.NamedScope.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Ninject.Web.Common.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Ninject.Web.Common.WebHost.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Ninject.Web.Mvc.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/System.Web.Razor.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/System.Web.Webpages.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/System.Web.Webpages.Deployment.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/System.Web.Webpages.Razor.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/System.Web.Helpers.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/System.Web.Mvc.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/ru/System.Web.Razor.resources.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/ru/System.Web.Webpages.resources.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/ru/System.Web.Webpages.Deployment.resources.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/ru/System.Web.Webpages.Razor.resources.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/ru/System.Web.Helpers.resources.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/bin/ru/System.Web.Mvc.resources.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/obj/Debug/Lab_3_MVC.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/obj/Debug/Lab_3_MVC.csproj.CopyComplete
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/obj/Debug/Lab_3_MVC.dll
+/Users/dianaagapkina/Desktop/PIS-6/6 DI_NINJECT/Lab_3_MVC/obj/Debug/Lab_3_MVC.pdb

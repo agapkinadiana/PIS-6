@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{AB982715-0735-4B71-9A5E-038DCD6EF2D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab7_API/Models/PersonRepository.cs">
+    <Files>
+      <File FileName="Lab7_API/App_Start/RouteConfig.cs" Line="1" Column="1" />
+      <File FileName="Lab7_API/App_Start/WebApiConfig.cs" Line="1" Column="1" />
+      <File FileName="Lab7_API/Controllers/HomeController.cs" Line="16" Column="46" />
+      <File FileName="Lab7_API/Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="Lab7_API/Models/PersonRepository.cs" Line="14" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab7_API" expanded="True">
+            <Node name="Lab7_API" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="PersonRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab7__API PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
